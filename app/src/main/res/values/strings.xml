@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Shifu</string>
+    <string name="bulb">Bulb</string>
+    <string name="off">OFF</string>
+    <string name="todo">TODO</string>
+    <string name="kitchen">Kitchen</string>
 </resources>
